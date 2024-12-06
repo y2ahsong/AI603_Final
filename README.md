@@ -15,7 +15,7 @@ To execute the OCTGAN, simply run the following command in your terminal:
 python main.py
 ```
 Run the above command to start training the OCTGAN model, generating synthetic data, and evaluating its performance.
- Settings:  
+ - Settings:  
     - Dataset: loan  [[Big Data Finance]](https://bigdata-finance.kr/dataset/datasetView.do
     )
     - Epochs: 100
